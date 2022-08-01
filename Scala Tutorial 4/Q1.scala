@@ -1,4 +1,4 @@
-object Q1 {
+object Q1 extends App{
     def main(args: Array[String]): Unit = {
       var amount: Float = 1425462.05f
 
